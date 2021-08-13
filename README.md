@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mohitdevda2797
+- 👀 I’m interested in Python and JS Development
+- 🌱 I’m currently learning React JS
